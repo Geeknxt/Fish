@@ -9,3 +9,8 @@ After initializing an Evolution instance, call Evolution.tick() to update the sc
 
 Keyboard Shortcuts:		
 Pressing 'p' will pause the simulation, 'b' will draw the brain of the longest living fish, and 'f' will turn off visuals while evolving in the background. 
+
+Plans:
+-Update fish brains with recurrent neural networks to have them learn while still alive
+-Sexual reproduction
+-Behaviors additional to feeding (group, color, hunting, etc.)
